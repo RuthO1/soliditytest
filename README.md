@@ -1,0 +1,2 @@
+# soliditytest
+my example contract
